@@ -1,0 +1,30 @@
+
+#form{
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}
+.cont1{
+    margin-bottom: 20px;
+}
+.cont1 button{
+    margin-left: 5px;
+    height: 40px;
+    width: 40px;
+    cursor: pointer;
+}
+.cont1 input{
+    width: 350px;
+    height: 40px;
+    padding-left: 10px;
+}
+.btn_cont button{
+    margin-left: 10px;
+    height: 40px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.btn_cont button{
+    margin-bottom: 10px;
+}
